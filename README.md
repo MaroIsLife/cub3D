@@ -18,12 +18,6 @@ You should be able to survive if you get to the third floor, and kill everyone t
   <img src="https://i.imgur.com/ll5P9RN.png" width="60%" />
 </p>
 
-### How to run it
-
-Using ``make`` will build the executable and run it.
-
-To run it again without remaking, you can simply run the executable with ``./cub3D``.
-
 ### Controls
 
 You can move around the maze with ``W`` ``A`` ``S`` ``D``.
@@ -44,7 +38,7 @@ The basic program that was required to pass. It only includes wall textures and 
 
 ### How to run it (mandatory part only)
 
-Using ``make test`` will make and run the mandatory part.
+Using ``make`` will make and run the mandatory part.
 
 You can also use ``make`` to generate the ``cub3D`` executable. You can launch it with ``./cub3D``.
 
