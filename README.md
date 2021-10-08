@@ -51,9 +51,3 @@ You can also use ``make`` to generate the ``cub3D`` executable. You can launch i
 ### Controls (mandatory part only)
 
 Controls are the same as the project with bonuses, but only ``W`` ``A`` ``S`` ``D`` to move and ``←`` ``→`` to turn are available.
-
-### Acknowledgments
-
-* The Coding Train (raycasting inspiration)
-* Wolfenstein 3D (for the controversial textures)
-* And macrespo (for this beautiful life bar)
