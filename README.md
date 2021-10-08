@@ -20,7 +20,7 @@ You should be able to survive if you get to the third floor, and kill everyone t
 
 ### How to run it
 
-Using ``make bonus`` will build the executable and run it.
+Using ``make`` will build the executable and run it.
 
 To run it again without remaking, you can simply run the executable with ``./cub3D``.
 
