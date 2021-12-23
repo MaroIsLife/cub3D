@@ -10,10 +10,6 @@ The project runs using the MiniLibX, a simplified version of the Xlib. It can th
 
 Just like B.J. Blazkowicz in Wolfenstein 3D, you have infiltrated a nazi stronghold.
 
-You got what you needed, but you won't get out unnoticed. You're gonna have to fight your way out !
-
-You should be able to survive if you get to the third floor, and kill everyone there. Good luck !
-
 <p align="center">
   <img src="https://i.imgur.com/ll5P9RN.png" width="60%" />
 </p>
